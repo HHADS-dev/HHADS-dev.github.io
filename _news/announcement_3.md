@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start to pursue a Master's degree in Electrical and Computer Engineering at the University of Michigan, specializing in Robotics. :smile: :rocket:
+I start to pursue a Master's degree in Electrical and Computer Engineering at the University of Michigan, specializing in Robotics. Go Blue! :smile: :rocket:
