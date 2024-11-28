@@ -5,11 +5,12 @@ permalink: /
 subtitle: Yi Liu - Master student in Umich.
 
 profile:
-  align: left
+  align: right
   image: yiliu.jpg
   image_circular: false
   more_info: >
-    <p>Ford Robotic Building, Ann Arbor, MI</p>
+    <p>Ford Robotic Building</p>
+    <p>Ann Arbor, MI</p>
     <p>2024.11</p>
 
 news: true
