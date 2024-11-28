@@ -22,5 +22,3 @@ Hi! I am Yi Liu, a first year Master Student in Electrical and Computer Engineer
 I am now working as a graduate research assistant at the [Field Robotics Group](https://fieldrobotics.engin.umich.edu/home/) under the guidance of Prof. [Katie Skinner](https://robotics.umich.edu/profile/katherine-skinner/) and [Jingyu Song](https://song-jingyu.github.io/) at the [University of Michigan Robotics Department](https://robotics.umich.edu/).
 
 I am interested in the applications of AI technology such as Deep Learning and Reinforcement Learning in the area of Robotics.
-
-
